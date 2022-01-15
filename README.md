@@ -1,2 +1,2 @@
 # ruby_projects
-Ruby portfolio.
+A beginner's journey and eventual Ruby portfolio.
